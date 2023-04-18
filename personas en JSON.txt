@@ -1,0 +1,31 @@
+Conexión establecida correctamenteArray
+(
+    [
+    0
+] => Array
+        (
+            [ID
+] => 4
+            [Nombre
+] => Ray Marcelo
+            [Apellido
+] => Ibarra Huamancari
+            [Email
+] => dasfqeqeadadq@gmail.com
+        )
+
+    [
+    1
+] => Array
+        (
+            [ID
+] => 2
+            [Nombre
+] => Abel 
+            [Apellido
+] => Lopez Juarez
+            [Email
+] => abeljuarez5355@gmail.com
+        )
+
+)
